@@ -297,31 +297,6 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Featured collection",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -443,7 +418,6 @@
     "custom_liquid_NDVqWr",
     "multi_column_RnPTLq",
     "before_after_image_cDdVgN",
-    "featured-collection",
     "faq",
     "Dawn-text",
     "press"
