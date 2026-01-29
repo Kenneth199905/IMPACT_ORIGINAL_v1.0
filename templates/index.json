@@ -113,8 +113,8 @@
         "heading_bNbbMG": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Pourquoi choisir Isoria ?",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
