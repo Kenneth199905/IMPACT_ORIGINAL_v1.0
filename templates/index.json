@@ -297,6 +297,19 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "custom_liquid_bz8ThJ": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  /* Conteneur principal en mode GRILLE */\n  .trust-badges-container {\n    display: grid;\n    /* Création de 2 colonnes de largeur égale */\n    grid-template-columns: 1fr 1fr; \n    gap: 15px; /* Espace entre les blocs */\n    padding: 20px;\n    max-width: 800px; /* On élargit un peu pour que ça respire */\n    margin: 0 auto;\n    font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;\n    background-color: transparent; /* Fond transparent */\n  }\n\n  /* Chaque élément (Badge) */\n  .trust-badge-item {\n    display: flex;\n    align-items: center;\n    gap: 12px;\n    background: #fff; /* Optionnel: fond blanc pour chaque bloc */\n    padding: 10px;    /* Un peu d'espace interne */\n    border-radius: 8px; /* Coins arrondis légers */\n  }\n\n  /* Le carré blanc de l'icône */\n  .badge-icon-box {\n    width: 50px;       /* Un peu plus petit pour le mode compact */\n    height: 50px;\n    min-width: 50px;\n    background-color: #ffffff;\n    border-radius: 10px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Ombre légère */\n  }\n\n  /* Taille des SVGs */\n  .badge-icon-box svg {\n    width: 24px;\n    height: 24px;\n    display: block;\n  }\n\n  /* Partie Texte */\n  .badge-text-content {\n    display: flex;\n    flex-direction: column;\n    justify-content: center;\n  }\n\n  .badge-title {\n    font-size: 14px; /* Police légèrement réduite pour le compact */\n    font-weight: 700;\n    color: #000000;\n    margin-bottom: 2px;\n    line-height: 1.2;\n  }\n\n  .badge-subtitle {\n    font-size: 12px;\n    color: #666666;\n    margin: 0;\n    line-height: 1.2;\n  }\n  \n  /* Responsive : Si l'écran est vraiment très petit (vieux téléphones), on passe en 1 colonne */\n  @media (max-width: 480px) {\n    .trust-badges-container {\n      grid-template-columns: 1fr; /* Retour en colonne uniquement sur tout petit écran */\n      gap: 10px;\n      padding: 10px;\n    }\n  }\n</style>\n\n<div class=\"trust-badges-container\">\n\n  <div class=\"trust-badge-item\">\n    <div class=\"badge-icon-box\">\n      <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n        <rect x=\"1\" y=\"3\" width=\"15\" height=\"13\"></rect>\n        <polygon points=\"16 8 20 8 23 11 23 16 16 16 16 8\"></polygon>\n        <circle cx=\"5.5\" cy=\"18.5\" r=\"2.5\"></circle>\n        <circle cx=\"18.5\" cy=\"18.5\" r=\"2.5\"></circle>\n      </svg>\n    </div>\n    <div class=\"badge-text-content\">\n      <span class=\"badge-title\">Livraison gratuite</span>\n      <p class=\"badge-subtitle\">Expédié en 24h</p>\n    </div>\n  </div>\n\n  <div class=\"trust-badge-item\">\n    <div class=\"badge-icon-box\">\n      <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n        <path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"></path>\n        <polyline points=\"9 12 11 14 15 10\"></polyline>\n      </svg>\n    </div>\n    <div class=\"badge-text-content\">\n      <span class=\"badge-title\">Paiement sécurisé</span>\n      <p class=\"badge-subtitle\">SSL & 3D Secure</p>\n    </div>\n  </div>\n\n  <div class=\"trust-badge-item\">\n    <div class=\"badge-icon-box\">\n      <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n        <rect x=\"2\" y=\"5\" width=\"20\" height=\"14\" rx=\"2\"></rect>\n        <line x1=\"2\" y1=\"10\" x2=\"22\" y2=\"10\"></line>\n        <path d=\"M12 15a2 2 0 1 0 0-4 2 2 0 0 0 0 4z\"></path>\n      </svg>\n    </div>\n    <div class=\"badge-text-content\">\n      <span class=\"badge-title\">Satisfait ou remboursé</span>\n      <p class=\"badge-subtitle\">30 jours pour changer</p>\n    </div>\n  </div>\n\n  <div class=\"trust-badge-item\">\n    <div class=\"badge-icon-box\">\n      <svg viewBox=\"0 0 30 20\" fill=\"none\">\n        <rect width=\"10\" height=\"20\" fill=\"#002395\"/>\n        <rect x=\"10\" width=\"10\" height=\"20\" fill=\"#FFFFFF\"/>\n        <rect x=\"20\" width=\"10\" height=\"20\" fill=\"#ED2939\"/>\n      </svg>\n    </div>\n    <div class=\"badge-text-content\">\n      <span class=\"badge-title\">SAV Français</span>\n      <p class=\"badge-subtitle\">Disponible 7j/7</p>\n    </div>\n  </div>\n\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -418,6 +431,7 @@
     "custom_liquid_NDVqWr",
     "multi_column_RnPTLq",
     "before_after_image_cDdVgN",
+    "custom_liquid_bz8ThJ",
     "faq",
     "Dawn-text",
     "press"
