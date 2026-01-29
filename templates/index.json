@@ -395,6 +395,21 @@
         "text_color": ""
       }
     },
+    "video_QaQK6c": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/72504e7e56504f55a69fd75fb75c6c34.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "Dawn-text": {
       "type": "Dawn-text",
       "settings": {
@@ -453,19 +468,30 @@
         "logo_item_border": ""
       }
     },
-    "video_QaQK6c": {
-      "type": "video",
-      "name": "Video",
+    "rich_text_mdRxEa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gcbctm": {
+          "type": "heading",
+          "settings": {
+            "text": "Recommandé par la vétérinaire Claire Picot",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_gcbctm"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
-        "autoplay": true,
-        "video_size": "sm",
-        "video": "shopify://files/videos/72504e7e56504f55a69fd75fb75c6c34.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     }
   },
@@ -484,6 +510,7 @@
     "rich_text_WtGqMt",
     "video_QaQK6c",
     "Dawn-text",
-    "press"
+    "press",
+    "rich_text_mdRxEa"
   ]
 }
