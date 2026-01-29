@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "text": "5 minutes chrono pour des pattes parfaites, sans stress ni saignements",
-            "heading_tag": "h3"
+            "heading_tag": "h2"
           }
         }
       },
@@ -34,7 +34,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 15
+        "overlay_opacity": 20
       }
     },
     "logo_list_Y7ccJR": {
