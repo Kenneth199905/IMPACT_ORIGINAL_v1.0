@@ -54,6 +54,7 @@
         "logo_jFFKLN": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/IMG_5674.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -61,6 +62,7 @@
         "logo_rBbkzt": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/IMG_5677.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -68,6 +70,7 @@
         "logo_DiWKCn": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/IMG_5676.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -75,6 +78,7 @@
         "logo_BpT6K8": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/IMG_5675.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -90,7 +94,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Vu sur",
+        "title": "Ils parlents de nous",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
