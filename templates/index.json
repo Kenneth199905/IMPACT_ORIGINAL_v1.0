@@ -373,10 +373,17 @@
             "text_color": "",
             "gradient": ""
           }
+        },
+        "richtext_rR3DtU": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
         }
       },
       "block_order": [
-        "heading_XfhNwC"
+        "heading_XfhNwC",
+        "richtext_rR3DtU"
       ],
       "name": "Rich text",
       "settings": {
@@ -445,6 +452,21 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "video_QaQK6c": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/72504e7e56504f55a69fd75fb75c6c34.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
@@ -460,6 +482,7 @@
     "custom_liquid_bz8ThJ",
     "faq",
     "rich_text_WtGqMt",
+    "video_QaQK6c",
     "Dawn-text",
     "press"
   ]
