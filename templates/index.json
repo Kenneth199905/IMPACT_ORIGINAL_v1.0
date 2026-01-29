@@ -362,6 +362,32 @@
         "accordion_text_color": ""
       }
     },
+    "rich_text_WtGqMt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XfhNwC": {
+          "type": "heading",
+          "settings": {
+            "text": "Comment ça marche ?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_XfhNwC"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "Dawn-text": {
       "type": "Dawn-text",
       "settings": {
@@ -433,6 +459,7 @@
     "before_after_image_cDdVgN",
     "custom_liquid_bz8ThJ",
     "faq",
+    "rich_text_WtGqMt",
     "Dawn-text",
     "press"
   ]
