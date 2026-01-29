@@ -9,43 +9,32 @@
  */
 {
   "sections": {
-    "slideshow": {
-      "type": "slideshow",
+    "image_with_text_overlay_cimRWi": {
+      "type": "image-with-text-overlay",
       "blocks": {
-        "slide-1": {
-          "type": "image",
+        "heading_hVrgYg": {
+          "type": "heading",
           "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
           }
         }
       },
       "block_order": [
-        "slide-1"
+        "heading_hVrgYg"
       ],
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
         "image_size": "auto",
-        "controls_type": "numbers",
-        "transition_type": "fade_with_text",
-        "autoplay": true,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+        "image": "shopify://shop_images/Gemini_Generated_Image_tfttpotfttpotftt-Photoroom.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 15
       }
     },
     "logo_list_Y7ccJR": {
@@ -542,7 +531,7 @@
     }
   },
   "order": [
-    "slideshow",
+    "image_with_text_overlay_cimRWi",
     "logo_list_Y7ccJR",
     "rich_text_QaYLpE",
     "image_with_text_overlay_T8xngH",
