@@ -114,7 +114,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir Isoria ?",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -155,7 +155,7 @@
           "type": "heading",
           "settings": {
             "text": "Heading",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
