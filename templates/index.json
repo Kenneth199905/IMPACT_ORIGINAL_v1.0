@@ -138,14 +138,15 @@
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/4_benefices.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "rich_text_9eWJb3": {
