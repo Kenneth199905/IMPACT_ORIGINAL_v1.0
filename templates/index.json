@@ -401,8 +401,9 @@
         "item_nXURFD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/13_80x_a94d5aa6-f5b2-4f28-93c2-73d42fc08825.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Risque de fragilisés les ongles",
             "heading_tag": "h4",
             "content": "<p>L'utilisation d'un coupe-ongles exige précision et stabilité, mais même en prenant toutes les précautions nécessaires, le risque de fragilisés les ongles reste élevé.</p><p>Non seulement les ongles fragilisés sont douloureux pour votre animal, mais ils exposent également aux bactéries et aux débris présents dans l'environnement, augmentant ainsi le risque d'infection.</p>",
             "link_url": "",
