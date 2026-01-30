@@ -380,17 +380,10 @@
             "text_color": "",
             "gradient": ""
           }
-        },
-        "richtext_rR3DtU": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
         }
       },
       "block_order": [
-        "heading_XfhNwC",
-        "richtext_rR3DtU"
+        "heading_XfhNwC"
       ],
       "name": "Rich text",
       "settings": {
@@ -402,19 +395,63 @@
         "text_color": ""
       }
     },
-    "video_QaQK6c": {
-      "type": "video",
-      "name": "Video",
+    "multi_column_dBQE7J": {
+      "type": "multi-column",
+      "blocks": {
+        "item_nXURFD": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qQ8G4W": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_U4Em7E": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_nXURFD",
+        "item_qQ8G4W",
+        "item_U4Em7E"
+      ],
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
-        "autoplay": true,
-        "video_size": "sm",
-        "video": "shopify://files/videos/72504e7e56504f55a69fd75fb75c6c34.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "Dawn-text": {
@@ -544,7 +581,7 @@
     "custom_liquid_bz8ThJ",
     "faq",
     "rich_text_WtGqMt",
-    "video_QaQK6c",
+    "multi_column_dBQE7J",
     "Dawn-text",
     "rich_text_mdRxEa",
     "image_with_text_overlay_keAnzU",
