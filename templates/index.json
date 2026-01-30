@@ -455,6 +455,54 @@
         "text_color": ""
       }
     },
+    "rich_text_ApAQKD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FJKJiA": {
+          "type": "heading",
+          "settings": {
+            "text": "Économisez des centaines d'euros",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_cQG7fL": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Plus besoin d'aller chez le toiletteur (30-50€) ou le vétérinaire (50-80€). Avec ISORIA PRO, vous économisez 200 à 400€ par an. Et surtout : vous le faites quand VOUS voulez, sans rendez-vous.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FJKJiA",
+        "richtext_cQG7fL"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_4JH3VK": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/72504e7e56504f55a69fd75fb75c6c34.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "Dawn-text": {
       "type": "Dawn-text",
       "settings": {
@@ -583,6 +631,8 @@
     "faq",
     "rich_text_WtGqMt",
     "multi_column_dBQE7J",
+    "rich_text_ApAQKD",
+    "video_4JH3VK",
     "Dawn-text",
     "rich_text_mdRxEa",
     "image_with_text_overlay_keAnzU",
