@@ -103,7 +103,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir la lime à ongles ISORIA PRO ?",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
@@ -145,7 +145,7 @@
           "type": "heading",
           "settings": {
             "text": "Fini les batailles. Fini les saignements. Fini le stress.",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
