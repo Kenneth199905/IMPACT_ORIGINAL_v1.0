@@ -595,7 +595,7 @@
             "logo": "shopify://shop_images/30-Millions-Amis-logo.jpg",
             "logo_width": 200,
             "author": "",
-            "content": "Write some content about what they says about your store.",
+            "content": "La solution qui réconcilie enfin les chiens avec l'entretien des ongles.",
             "show_rating": true,
             "rating": 5
           }
@@ -604,9 +604,9 @@
           "type": "quote",
           "settings": {
             "logo": "shopify://shop_images/hq720.jpg",
-            "logo_width": 350,
+            "logo_width": 300,
             "author": "",
-            "content": "Write some content about what they says about your store.",
+            "content": "L'accessoire que tous les propriétaires de chiens attendaient.",
             "show_rating": true,
             "rating": 5
           }
