@@ -592,38 +592,29 @@
         "quote_CRztLW": {
           "type": "quote",
           "settings": {
-            "logo_width": 100,
+            "logo": "shopify://shop_images/30-Millions-Amis-logo.jpg",
+            "logo_width": 200,
             "author": "",
             "content": "Write some content about what they says about your store.",
             "show_rating": true,
-            "rating": 4
+            "rating": 5
           }
         },
         "quote_TdiNBD": {
           "type": "quote",
           "settings": {
-            "logo_width": 100,
+            "logo": "shopify://shop_images/hq720.jpg",
+            "logo_width": 350,
             "author": "",
             "content": "Write some content about what they says about your store.",
             "show_rating": true,
-            "rating": 4
-          }
-        },
-        "quote_pRnqq7": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
+            "rating": 5
           }
         }
       },
       "block_order": [
         "quote_CRztLW",
-        "quote_TdiNBD",
-        "quote_pRnqq7"
+        "quote_TdiNBD"
       ],
       "name": "Press",
       "settings": {
