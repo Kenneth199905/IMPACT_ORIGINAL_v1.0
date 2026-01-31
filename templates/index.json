@@ -200,7 +200,7 @@
           "settings": {
             "image": "shopify://shop_images/Test_3_2_1200x_7865564b-46eb-4625-ab5d-ce54123c6cb4.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Stéphane G.",
             "heading_tag": "h4",
             "content": "<p>Ma chienne a peur de tout. L'aspirateur, le sèche-cheveux, même le micro-ondes. Je m'attendais au pire avec une lime électrique. Mais rien. Pas de bruit, pas de vibration, elle est restée sur le canapé comme si de rien n'était. Bluffant</p>",
             "link_url": "",
@@ -226,7 +226,7 @@
           "settings": {
             "image": "shopify://shop_images/Paw_3.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Isabelle M.",
             "heading_tag": "h4",
             "content": "<p>Ongles 100% noirs sur mon chien ma hantise. Avec les pinces, c'était la roulette russe. Le guide anti-quick d'ISORIA PRO a tout changé : je lime par petites couches, je regarde la couleur de la limaille, et je m'arrête au bon moment. Simple, logique, et surtout sans stress.</p>",
             "link_url": "",
@@ -239,9 +239,9 @@
           "settings": {
             "image": "shopify://shop_images/14_600x_4eaf7576-9fcc-4f16-a918-d3583d256a88.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Caroline B.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Mes deux loulous sur la même photo, calmes, assis, pendant que je tiens la lime. Il y a 3 mois, cette image aurait été impossible. L'un se cachait, l'autre grognait. Aujourd'hui ils attendent leur tour sans bouger</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
