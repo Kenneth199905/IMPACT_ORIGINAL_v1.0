@@ -376,7 +376,7 @@
           "type": "heading",
           "settings": {
             "text": "Attention : les coupe-ongles peuvent blesser votre chien !",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
