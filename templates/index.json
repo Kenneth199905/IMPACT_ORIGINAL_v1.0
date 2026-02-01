@@ -199,7 +199,7 @@
         "item_6jgWKP": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Test_3_2_1200x_7865564b-46eb-4625-ab5d-ce54123c6cb4.jpg",
+            "video": "shopify://files/videos/0afdb24f79f84081b233cfaf0008080b.HD-1080p-2.5Mbps-58072552.mp4",
             "column_size": "3",
             "title": "Stéphane G.",
             "heading_tag": "h4",
@@ -212,7 +212,7 @@
         "item_qPg7PC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/23_1200x_40590d7c-8999-42e1-8f70-6199d342aef7.jpg",
+            "video": "shopify://files/videos/e77f6b5d3282498b9c15ee6e0791879d.HD-1080p-2.5Mbps-58072553.mp4",
             "column_size": "3",
             "title": "Nathalie B.",
             "heading_tag": "h4",
@@ -225,7 +225,7 @@
         "item_aGa7UX": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Paw_3.jpg",
+            "video": "shopify://files/videos/94961f06de904471b0e8a0df0ce7085a.HD-1080p-2.5Mbps-58072551.mp4",
             "column_size": "3",
             "title": "Isabelle M.",
             "heading_tag": "h4",
@@ -238,7 +238,7 @@
         "item_8Jidec": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/14_600x_4eaf7576-9fcc-4f16-a918-d3583d256a88.jpg",
+            "video": "shopify://files/videos/8ffb56f5347749799bf84adae431c474.HD-1080p-2.5Mbps-58072554.mp4",
             "column_size": "3",
             "title": "Caroline B.",
             "heading_tag": "h4",
