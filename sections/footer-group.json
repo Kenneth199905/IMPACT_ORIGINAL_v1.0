@@ -20,9 +20,9 @@
             "icon": "picto-box",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
+            "icon_background_type": "circle",
             "icon_background": "#ffb74a",
-            "icon_color": "#ffb74a",
+            "icon_color": "#1a1a1a",
             "title": "Livraison gratuite",
             "content": ""
           }
