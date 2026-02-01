@@ -330,25 +330,25 @@
             "content": "<ul><li><strong>Limez après une balade</strong> : les griffes sont naturellement un peu ramollies, votre chien est plus détendu.</li><li><strong>Tenez fermement la patte</strong> et limez doucement en mouvements circulaires.</li><li><strong>Ne limez pas plus de 2 à 3 secondes</strong> d’affilée au même endroit.</li><li><strong>Récompensez votre chien</strong> à la fin de la séance pour créer une expérience positive.</li><li><strong>Nettoyez la lime</strong> avec le capuchon prévu à cet effet après chaque utilisation.</li></ul>"
           }
         },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "Garantie de 30 jours",
-            "content": "<p><strong>Nous offrons une garantie “Satisfait ou remboursé” de 30 jours, à compter de la réception de votre produit !</strong><br/><br/>Si vous n’êtes pas entièrement satisfait, quelle qu’en soit la raison, il vous suffit de nous écrire à <a><strong>help@heusom.com</strong></a> et nous vous accompagnerons dans la démarche.</p>"
-          }
-        },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
             "title": "Informations sur la livraison",
             "content": "<p>Nos délais de livraison varient entre <strong>8 et 10 jours ouvrés.</strong></p>"
           }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "Garantie de 30 jours",
+            "content": "<p><strong>Nous offrons une garantie “Satisfait ou remboursé” de 30 jours, à compter de la réception de votre produit !</strong><br/><br/>Si vous n’êtes pas entièrement satisfait, quelle qu’en soit la raison, il vous suffit de nous écrire à <a><strong>help@heusom.com</strong></a> et nous vous accompagnerons dans la démarche.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "166442457738b23caf-1"
       ],
       "settings": {
         "full_width": false,
