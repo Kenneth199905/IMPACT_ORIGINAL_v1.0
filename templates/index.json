@@ -343,12 +343,20 @@
             "title": "Garantie de 30 jours",
             "content": "<p><strong>Nous offrons une garantie “Satisfait ou remboursé” de 30 jours, à compter de la réception de votre produit !</strong><br/><br/>Si vous n’êtes pas entièrement satisfait, quelle qu’en soit la raison, il vous suffit de nous écrire à <a><strong>help@heusom.com</strong></a> et nous vous accompagnerons dans la démarche.</p>"
           }
+        },
+        "item_iQE48U": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l'utiliser sur les chats, les lapins ou d'autres petits animaux domestiques ?",
+            "content": "<p>Oui Isoria Pro fonctionne en toute sécurité sur les petits animaux de compagnie. Il suffit d'utiliser le petit embout et la vitesse lente pour obtenir des résultats tout en douceur.</p>"
+          }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-2",
-        "166442457738b23caf-1"
+        "166442457738b23caf-1",
+        "item_iQE48U"
       ],
       "settings": {
         "full_width": false,
