@@ -340,8 +340,8 @@
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Informations sur la livraison",
+            "content": "<p>Nos délais de livraison varient entre <strong>8 et 10 jours ouvrés.</strong></p>"
           }
         }
       },
