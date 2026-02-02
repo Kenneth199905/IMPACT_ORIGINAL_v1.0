@@ -650,6 +650,35 @@
         "logo_item_border": ""
       }
     },
+    "1770075050e69d4bd6": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_homepage_qgDqhP": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "isoria-pro",
+            "review_data": "sample_data",
+            "max_width": 1200
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_homepage_qgDqhP"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "contact_67iGJy": {
       "type": "contact",
       "name": "Contact form",
@@ -694,6 +723,7 @@
     "image_with_text_overlay_keAnzU",
     "rich_text_eFtrfr",
     "press_NBD7pa",
+    "1770075050e69d4bd6",
     "contact_67iGJy"
   ]
 }
