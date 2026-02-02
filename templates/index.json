@@ -209,19 +209,6 @@
             "link_style": "link"
           }
         },
-        "item_qPg7PC": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/e77f6b5d3282498b9c15ee6e0791879d.HD-1080p-2.5Mbps-58072553.mp4",
-            "column_size": "3",
-            "title": "Nathalie B.",
-            "heading_tag": "h4",
-            "content": "<p>J'ai fait saigner ma chienne UNE fois avec une pince classique. Elle a hurlé et depuis c'était toiletteur obligatoire. Avec ISORIA PRO, impossible de couper trop court : on lime progressivement, on voit la poussière blanche, et dès qu'elle devient rosée, on arrête.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_aGa7UX": {
           "type": "item",
           "settings": {
@@ -230,6 +217,19 @@
             "title": "Isabelle M.",
             "heading_tag": "h4",
             "content": "<p>Ongles 100% noirs sur mon chien ma hantise. Avec les pinces, c'était la roulette russe. Le guide anti-quick d'ISORIA PRO a tout changé : je lime par petites couches, je regarde la couleur de la limaille, et je m'arrête au bon moment. Simple, logique, et surtout sans stress.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qPg7PC": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/e77f6b5d3282498b9c15ee6e0791879d.HD-1080p-2.5Mbps-58072553.mp4",
+            "column_size": "3",
+            "title": "Nathalie B.",
+            "heading_tag": "h4",
+            "content": "<p>J'ai fait saigner ma chienne UNE fois avec une pince classique. Elle a hurlé et depuis c'était toiletteur obligatoire. Avec ISORIA PRO, impossible de couper trop court : on lime progressivement, on voit la poussière blanche, et dès qu'elle devient rosée, on arrête.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -251,8 +251,8 @@
       },
       "block_order": [
         "item_6jgWKP",
-        "item_qPg7PC",
         "item_aGa7UX",
+        "item_qPg7PC",
         "item_8Jidec"
       ],
       "name": "Multi-column",
