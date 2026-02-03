@@ -344,6 +344,13 @@
             "content": "<p><strong>Pour les griffes claires ou claires-rosées :</strong><br/>Lorsque les griffes sont claires, vous pouvez voir la zone rosée appelée la <strong>veine ongulaire</strong> : évitez de la couper. Utilisez Isoria Pro pour limer doucement uniquement la partie transparente de la griffe. Pendant la coupe, surveillez un petit point noir au centre de la coupe transversale de la griffe : c’est un signal que vous approchez de la veine. Arrêtez-vous dès que vous voyez ce point pour protéger votre chien.</p><p><strong>Pour les griffes foncées ou noires :</strong><br/>La veine ongulaire n’est pas visible. Limez de petites sections avec Isoria Pro et observez les <strong>changements de texture ou de couleur</strong> au centre de la griffe. Cela indique la proximité de la veine et empêche toute coupe trop courte, garantissant la sécurité de votre compagnon.</p>"
           }
         },
+        "item_nrfLWF": {
+          "type": "item",
+          "settings": {
+            "title": "Comment choisir le bon embout et la bonne vitesse pour mon animal ?",
+            "content": "<p>Pour un toilettage sûr et efficace avec <strong>Isoria Pro</strong>, choisissez l’embout correspondant à la taille des ongles de votre animal :</p><ul><li><strong>Petit embout</strong> – Idéal pour les petits animaux comme les chats ou les tout petit chiens.<br/></li><li><strong>Embout moyen</strong> – Convient aux animaux de taille moyenne.<br/></li><li><strong>Grand embout</strong> – Parfait pour les grands chiens aux ongles plus épais.<br/></li></ul><p>Commencez <strong>avec la vitesse basse</strong> pour observer la réaction de votre animal. Vous pouvez passer à <strong>la vitesse élevée</strong> si nécessaire pour un limage plus rapide et efficace.</p>"
+          }
+        },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
@@ -370,6 +377,7 @@
         "166442457738b23caf-0",
         "item_iQE48U",
         "item_XdALPA",
+        "item_nrfLWF",
         "166442457738b23caf-1",
         "item_debFEh",
         "item_cEX4BF"
