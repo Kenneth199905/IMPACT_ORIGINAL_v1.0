@@ -337,6 +337,13 @@
             "content": "<p>Oui ! Isoria Pro est conçu pour tous les animaux, du petit chaton au chien de grande race.</p><p>Il dispose de trois tailles d’embouts et de deux vitesses réglables, adaptées à l’épaisseur et à la sensibilité des griffes de votre compagnon</p>"
           }
         },
+        "item_XdALPA": {
+          "type": "item",
+          "settings": {
+            "title": "Jusqu’où couper la griffe avec Isoria Pro ?",
+            "content": "<p><strong>Pour les griffes claires ou claires-rosées :</strong><br/>Lorsque les griffes sont claires, vous pouvez voir la zone rosée appelée la <strong>veine ongulaire</strong> : évitez de la couper. Utilisez Isoria Pro pour limer doucement uniquement la partie transparente de la griffe. Pendant la coupe, surveillez un petit point noir au centre de la coupe transversale de la griffe : c’est un signal que vous approchez de la veine. Arrêtez-vous dès que vous voyez ce point pour protéger votre chien.</p><p><strong>Pour les griffes foncées ou noires :</strong><br/>La veine ongulaire n’est pas visible. Limez de petites sections avec Isoria Pro et observez les <strong>changements de texture ou de couleur</strong> au centre de la griffe. Cela indique la proximité de la veine et empêche toute coupe trop courte, garantissant la sécurité de votre compagnon.</p>"
+          }
+        },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
@@ -362,6 +369,7 @@
       "block_order": [
         "166442457738b23caf-0",
         "item_iQE48U",
+        "item_XdALPA",
         "166442457738b23caf-1",
         "item_debFEh",
         "item_cEX4BF"
