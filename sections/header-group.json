@@ -14,20 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message": {
-          "type": "message",
-          "settings": {
-            "text": "SATISFAIT OU REMBOURSÉ",
-            "url": ""
-          }
-        },
-        "message_QT8XyD": {
-          "type": "message",
-          "settings": {
-            "text": "LIVRAISON OFFERTE",
-            "url": ""
-          }
-        },
         "message_YtAc6N": {
           "type": "message",
           "settings": {
@@ -44,8 +30,6 @@
         }
       },
       "block_order": [
-        "message",
-        "message_QT8XyD",
         "message_YtAc6N",
         "message_AgHHWP"
       ],
