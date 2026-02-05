@@ -297,16 +297,16 @@
     "featured_product_hBq3P3": {
       "type": "featured-product",
       "blocks": {
-        "title_gLphaQ": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
         "liquid_HQFzEf": {
           "type": "liquid",
           "settings": {
             "liquid": "<style>\n  .rating-badge {\n    display: inline-flex;\n    align-items: center;\n    gap: 5px;\n    padding: 4px 0;\n  }\n\n  .rating-badge__stars {\n    display: inline-flex;\n    gap: 1px;\n  }\n\n  .rating-badge__star {\n    width: 14px;\n    height: 14px;\n    fill: #f5a827;\n  }\n\n  .rating-badge__text {\n    color: #f5a827;\n    font-size: 12px;\n    font-weight: 700;\n    white-space: nowrap;\n  }\n</style>\n\n<div class=\"rating-badge\">\n  <div class=\"rating-badge__stars\">\n    {% for i in (1..5) %}\n      <svg class=\"rating-badge__star\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M12 2l3.09 6.26L22 9.27l-5 4.87L18.18 22 12 18.56 5.82 22 7 14.14l-5-4.87 6.91-1.01L12 2z\"/>\n      </svg>\n    {% endfor %}\n  </div>\n  <span class=\"rating-badge__text\">Noté 4.8 par +1800 Clients !</span>\n</div>"
+          }
+        },
+        "title_gLphaQ": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
           }
         },
         "liquid_TfbCjT": {
@@ -370,8 +370,8 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
+            "atc_button_background": "#f5a827",
+            "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
@@ -388,8 +388,8 @@
         }
       },
       "block_order": [
-        "title_gLphaQ",
         "liquid_HQFzEf",
+        "title_gLphaQ",
         "liquid_TfbCjT",
         "badges_4NPc9R",
         "description_z98nXJ",
