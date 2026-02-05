@@ -294,17 +294,88 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "custom_liquid_BtVXnb": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
+    "featured_product_hBq3P3": {
+      "type": "featured-product",
+      "blocks": {
+        "title_gLphaQ": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_4NPc9R": {
+          "type": "badges",
+          "settings": {}
+        },
+        "description_z98nXJ": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "liquid_anf3id": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"\n  background-color: #f5f5f5;\n  border-radius: 8px;\n  padding: 8px 16px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 8px;\n  margin: 12px 0;\n  font-size: 13px;\n  color: #1a1a1a;\n\">\n  <span style=\"\n    display: inline-block;\n    width: 8px;\n    height: 8px;\n    background-color: #e74c3c;\n    border-radius: 50%;\n    flex-shrink: 0;\n    animation: pulse-dot 1.5s ease-in-out infinite;\n  \"></span>\n  <span>Bientôt en rupture de stock ! <strong>3 {{ product.title }} disponibles</strong></span>\n</div>\n\n<style>\n  @keyframes pulse-dot {\n    0%, 100% { opacity: 1; transform: scale(1); }\n    50% { opacity: 0.5; transform: scale(0.85); }\n  }\n</style>"
+          }
+        },
+        "variant_picker_DdYTxG": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_4PURPN": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_ywpxqA": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_w47dHw": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_gLphaQ",
+        "badges_4NPc9R",
+        "description_z98nXJ",
+        "liquid_anf3id",
+        "variant_picker_DdYTxG",
+        "quantity_selector_4PURPN",
+        "buy_buttons_ywpxqA",
+        "pickup_availability_w47dHw"
+      ],
+      "name": "Featured product",
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": true,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"\n  background-color: #f5f5f5;\n  border-radius: 8px;\n  padding: 8px 16px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 8px;\n  margin: 12px 0;\n  font-size: 13px;\n  color: #1a1a1a;\n\">\n  <span style=\"\n    display: inline-block;\n    width: 8px;\n    height: 8px;\n    background-color: #e74c3c;\n    border-radius: 50%;\n    flex-shrink: 0;\n    animation: pulse-dot 1.5s ease-in-out infinite;\n  \"></span>\n  <span>Bientôt en rupture de stock ! <strong>3 {{ product.title }} disponibles</strong></span>\n</div>\n\n<style>\n  @keyframes pulse-dot {\n    0%, 100% { opacity: 1; transform: scale(1); }\n    50% { opacity: 0.5; transform: scale(0.85); }\n  }\n</style>",
+        "product": "isoria-pro",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
       }
     },
     "image_with_text_overlay_YggbqP": {
@@ -521,54 +592,6 @@
         "text_color": ""
       }
     },
-    "rich_text_ApAQKD": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_FJKJiA": {
-          "type": "heading",
-          "settings": {
-            "text": "Économisez des centaines d'euros",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_cQG7fL": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Plus besoin d'aller chez le toiletteur ou le vétérinaire. Avec ISORIA PRO, vous économisez 200 à 400€ par an.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_FJKJiA",
-        "richtext_cQG7fL"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "video_4JH3VK": {
-      "type": "video",
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/72504e7e56504f55a69fd75fb75c6c34.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "Dawn-text": {
       "type": "Dawn-text",
       "settings": {
@@ -756,15 +779,13 @@
     "custom_liquid_NDVqWr",
     "multi_column_RnPTLq",
     "before_after_image_cDdVgN",
-    "custom_liquid_BtVXnb",
+    "featured_product_hBq3P3",
     "image_with_text_overlay_YggbqP",
     "custom_liquid_YaHBiP",
     "custom_liquid_cdT4Jf",
     "faq",
     "rich_text_WtGqMt",
     "multi_column_dBQE7J",
-    "rich_text_ApAQKD",
-    "video_4JH3VK",
     "Dawn-text",
     "rich_text_mdRxEa",
     "image_with_text_overlay_keAnzU",
