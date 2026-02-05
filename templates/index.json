@@ -303,6 +303,18 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_HQFzEf": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .rating-badge {\n    display: inline-flex;\n    align-items: center;\n    gap: 5px;\n    padding: 4px 0;\n  }\n\n  .rating-badge__stars {\n    display: inline-flex;\n    gap: 1px;\n  }\n\n  .rating-badge__star {\n    width: 14px;\n    height: 14px;\n    fill: #f5a827;\n  }\n\n  .rating-badge__text {\n    color: #f5a827;\n    font-size: 12px;\n    font-weight: 700;\n    white-space: nowrap;\n  }\n</style>\n\n<div class=\"rating-badge\">\n  <div class=\"rating-badge__stars\">\n    {% for i in (1..5) %}\n      <svg class=\"rating-badge__star\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M12 2l3.09 6.26L22 9.27l-5 4.87L18.18 22 12 18.56 5.82 22 7 14.14l-5-4.87 6.91-1.01L12 2z\"/>\n      </svg>\n    {% endfor %}\n  </div>\n  <span class=\"rating-badge__text\">Noté 4.8 par +1800 Clients !</span>\n</div>"
+          }
+        },
+        "liquid_TfbCjT": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "badges_4NPc9R": {
           "type": "badges",
           "settings": {}
@@ -377,6 +389,8 @@
       },
       "block_order": [
         "title_gLphaQ",
+        "liquid_HQFzEf",
+        "liquid_TfbCjT",
         "badges_4NPc9R",
         "description_z98nXJ",
         "liquid_anf3id",
