@@ -334,13 +334,7 @@
         "liquid_JhMK3C": {
           "type": "liquid",
           "settings": {
-            "liquid": "<span class=\"custom-sale-badge\" style=\"\n  display: inline-block;\n  background-color: #2d3a3a;\n  color: #f5a827;\n  font-size: 0.85rem;\n  font-weight: 700;\n  padding: 8px 16px;\n  border-radius: 20px;\n  letter-spacing: 0.3px;\n  white-space: nowrap;\n\">\n  SOLDES DERNIÈRE DÉMARQUE -50% ⏳\n</span>"
-          }
-        },
-        "liquid_EKy6gU": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"custom-price-block\" style=\"display: flex; align-items: center; gap: 12px; flex-wrap: wrap;\">\n  <span class=\"custom-price-current\" style=\"font-size: 1.8rem; font-weight: 700; color: #ffffff;\">\n    €39,90\n  </span>\n  <span class=\"custom-price-compare\" style=\"font-size: 1.4rem; font-weight: 400; color: #999999; text-decoration: line-through;\">\n    €79,90\n  </span>\n  <span class=\"custom-sale-badge\" style=\"\n    display: inline-block;\n    background-color: #2d3a3a;\n    color: #f5a827;\n    font-size: 0.85rem;\n    font-weight: 700;\n    padding: 8px 16px;\n    border-radius: 20px;\n    letter-spacing: 0.3px;\n    white-space: nowrap;\n  \">\n    SOLDES DERNIÈRE DÉMARQUE -50% ⏳\n  </span>\n</div>"
+            "liquid": "<span class=\"custom-sale-badge\" style=\"\n  display: inline-block;\n  background-color: #f5a827;\n  color: #ffffff;\n  font-size: 0.85rem;\n  font-weight: 700;\n  padding: 8px 16px;\n  border-radius: 20px;\n  letter-spacing: 0.3px;\n  white-space: nowrap;\n\">\n  SOLDES DERNIÈRE DÉMARQUE -50% ⏳\n</span>"
           }
         },
         "rapi_rapi_bundle_ygmfpL": {
@@ -407,7 +401,6 @@
         "description_z98nXJ",
         "liquid_anf3id",
         "liquid_JhMK3C",
-        "liquid_EKy6gU",
         "rapi_rapi_bundle_ygmfpL",
         "image_x8GDcf",
         "liquid_amJCUe",
