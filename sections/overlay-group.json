@@ -26,10 +26,9 @@
     },
     "privacy-banner": {
       "type": "privacy-banner",
-      "disabled": true,
       "settings": {
-        "privacy_bar_title": "Cookie policy",
-        "privacy_bar_content": "<p>We use cookies and similar technologies to provide the best experience on our website. Refer to our Privacy Policy for more information.</p>"
+        "privacy_bar_title": "Politique en matière de cookies",
+        "privacy_bar_content": "<p>Nous utilisons des cookies et des technologies similaires pour offrir la meilleure expérience possible sur notre site Web. Pour plus d'informations, consultez notre politique de confidentialité.</p>"
       }
     },
     "cart-drawer": {
