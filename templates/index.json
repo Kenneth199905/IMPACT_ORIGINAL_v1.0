@@ -331,6 +331,12 @@
             "liquid": "<div style=\"\n  background-color: #f5f5f5;\n  border-radius: 8px;\n  padding: 8px 16px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 8px;\n  margin: 12px 0;\n  font-size: 13px;\n  color: #1a1a1a;\n\">\n  <span style=\"\n    display: inline-block;\n    width: 8px;\n    height: 8px;\n    background-color: #e74c3c;\n    border-radius: 50%;\n    flex-shrink: 0;\n    animation: pulse-dot 1.5s ease-in-out infinite;\n  \"></span>\n  <span>Bientôt en rupture de stock ! <strong>3 {{ product.title }} disponibles</strong></span>\n</div>\n\n<style>\n  @keyframes pulse-dot {\n    0%, 100% { opacity: 1; transform: scale(1); }\n    50% { opacity: 0.5; transform: scale(0.85); }\n  }\n</style>"
           }
         },
+        "liquid_JhMK3C": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<span class=\"custom-sale-badge\" style=\"\n  display: inline-block;\n  background-color: #2d3a3a;\n  color: #f5a827;\n  font-size: 0.85rem;\n  font-weight: 700;\n  padding: 8px 16px;\n  border-radius: 20px;\n  letter-spacing: 0.3px;\n  white-space: nowrap;\n\">\n  SOLDES DERNIÈRE DÉMARQUE -50% ⏳\n</span>"
+          }
+        },
         "rapi_rapi_bundle_ygmfpL": {
           "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
           "settings": {
@@ -394,6 +400,7 @@
         "badges_4NPc9R",
         "description_z98nXJ",
         "liquid_anf3id",
+        "liquid_JhMK3C",
         "rapi_rapi_bundle_ygmfpL",
         "image_x8GDcf",
         "liquid_amJCUe",
