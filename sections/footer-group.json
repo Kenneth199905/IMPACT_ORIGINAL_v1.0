@@ -108,7 +108,7 @@
           "type": "text",
           "settings": {
             "title": "Nous contacter",
-            "content": "<p><strong>Service client : <br/></strong>\"adresse mail\"<br/><br/><strong>Horaires : <br/></strong>Du Lun au Ven de 9h à 12h et à 18h / Sam et Dim de 10h à 12h</p>",
+            "content": "<p><strong>Service client : <br/>contact@isoriapro.com</strong><br/><br/><strong>Horaires : <br/></strong>Du Lun au Ven de 9h à 12h et à 18h / Sam et Dim de 10h à 12h</p>",
             "enable_follow_on_shop": true
           }
         }
