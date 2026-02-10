@@ -334,7 +334,7 @@
         "liquid_JhMK3C": {
           "type": "liquid",
           "settings": {
-            "liquid": "<span class=\"custom-sale-badge\" style=\"\n  display: inline-block;\n  background-color: #f5a827;\n  color: #ffffff;\n  font-size: 0.85rem;\n  font-weight: 700;\n  padding: 8px 16px;\n  border-radius: 20px;\n  letter-spacing: 0.3px;\n  white-space: nowrap;\n\">\n  SOLDES DERNIÈRE DÉMARQUE -50% ⏳\n</span>"
+            "liquid": "<span class=\"custom-sale-badge\" style=\"\n  display: inline-block;\n  background-color: #ed81ed;\n  color: #ffffff;\n  font-size: 0.85rem;\n  font-weight: 700;\n  padding: 8px 16px;\n  border-radius: 20px;\n  letter-spacing: 0.3px;\n  white-space: nowrap;\n\">\n  Offre Saint-Valentin limlitée -50% ⏳\n</span>"
           }
         },
         "rapi_rapi_bundle_ygmfpL": {
