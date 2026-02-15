@@ -376,6 +376,22 @@
             "payment_button_text_color": ""
           }
         },
+        "image_hFnWC8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_FffWnK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Votre_texte_de_paragraphe_1.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_qHCTyw": {
           "type": "liquid",
           "settings": {
@@ -400,6 +416,8 @@
         "separator_REtVWA",
         "variant_picker_DdYTxG",
         "buy_buttons_ywpxqA",
+        "image_hFnWC8",
+        "image_FffWnK",
         "liquid_qHCTyw",
         "pickup_availability_w47dHw"
       ],
