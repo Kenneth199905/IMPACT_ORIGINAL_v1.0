@@ -396,7 +396,6 @@
         },
         "image_FffWnK": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Votre_texte_de_paragraphe_1.png",
             "alignment": "center",
