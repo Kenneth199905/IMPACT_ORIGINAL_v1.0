@@ -37,6 +37,22 @@
         "overlay_opacity": 20
       }
     },
+    "image_with_text_overlay_h44RNb": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Gemini_Generated_Image_wxwvulwxwvulwxwv.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "logo_list_Y7ccJR": {
       "type": "logo-list",
       "blocks": {
@@ -79,6 +95,7 @@
         "logo_DiWKCn",
         "logo_BpT6K8"
       ],
+      "disabled": true,
       "name": "Logo list",
       "settings": {
         "full_width": true,
@@ -94,6 +111,18 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
+      }
+    },
+    "rich_text_MNAbdH": {
+      "type": "rich-text",
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "rich_text_QaYLpE": {
@@ -795,7 +824,9 @@
   },
   "order": [
     "image_with_text_overlay_cimRWi",
+    "image_with_text_overlay_h44RNb",
     "logo_list_Y7ccJR",
+    "rich_text_MNAbdH",
     "rich_text_QaYLpE",
     "image_with_text_overlay_T8xngH",
     "rich_text_9eWJb3",
